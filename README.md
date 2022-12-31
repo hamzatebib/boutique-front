@@ -1,4 +1,5 @@
-# EcomFront
+# boutique-front (angular)
+you can find part back in "boutique-backend" 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.9.
 
